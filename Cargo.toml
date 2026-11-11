@@ -1,0 +1,9 @@
+[package]
+name = "cayo_perico_replay_glitch"
+version = "0.1.0"
+edition = "2024"
+authors = ["yeno_why (Discord)"]
+
+[dependencies]
+win-hotkeys = "0.5.1"
+windows-wfp = "0.2.1"
